@@ -24,6 +24,7 @@ represent several varieties of perch, as well as
 other freshwater genera and herring similar to those 
 in modern oceans. Other fish such as paddlefish, 
 garpike and stingray are also present.''']
+#upraveno
 #fix
 uzivatele = {"bob": "123", "ann": "pass123", "mike": "password123", "liz": "pass123"}
 predel = "*" * int((len(texts[1]) / (len(texts[2]) / 2) * (len(uzivatele) * 8)))
